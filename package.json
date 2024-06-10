@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/frontend-slot-footer.git"
+    "url": "git+https://github.com/robinkumar99/frontend-slot-footer.git#skillsense"
   },
   "browserslist": [
     "extends @edx/browserslist-config"
@@ -24,12 +24,12 @@
   },
   "author": "Open edX Community",
   "license": "AGPL-3.0",
-  "homepage": "https://github.com/openedx/frontend-slot-footer#readme",
+  "homepage": "https://github.com/robinkumar99/frontend-slot-footer#skillsense/readme",
   "publishConfig": {
     "access": "public"
   },
   "bugs": {
-    "url": "https://github.com/openedx/frontend-slot-footer/issues"
+    "url": "https://github.com/robinkumar99/frontend-slot-footer#skillsense/issues"
   },
   "dependencies": {
     "@openedx/frontend-plugin-framework": "^1.1.2"
